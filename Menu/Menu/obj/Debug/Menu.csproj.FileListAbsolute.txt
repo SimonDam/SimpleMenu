@@ -1,0 +1,7 @@
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Simon Dam Nielsen\source\repos\Menu\Menu\obj\Debug\Menu.pdb
